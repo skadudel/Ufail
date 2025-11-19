@@ -1,0 +1,7 @@
+.fail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 450px;
+    color: crimson;
+}
